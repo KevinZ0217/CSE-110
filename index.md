@@ -1,1 +1,2 @@
-# This is Kevin's user page
+# About
+    I'm a third year undergraduate student majoring in **Cognitive Science** and **Math-Computer Science** at University of California, San Diego. I'm interested in neuroscience, machine learning, and I'm also a Brain-Computer interface enthusiast, currently working in a neuroscience lab to gain some wet lab experiences. I'm also interested in software engineering, and I'm trying to figure out the principles that define a good software engineer in this class. Outside of academics, I love beatboxing, speedcubing(with best records of 16 secs!), FPS gaming, and table tennis. 
