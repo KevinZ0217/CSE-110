@@ -6,16 +6,28 @@ to figure out the principles that define a good software engineer in this class.
 (with best records of 16 secs!), FPS gaming, and table tennis.
 
 
-# Pictures
+- [About](#about)
+- [Picture](#picture)
+- [Quoting code](#quoting-code)
+- [Externl link](#externl-link)
+
+
+# Picture
 ![mice](https://user-images.githubusercontent.com/96039456/193138944-93d77a64-86ca-444a-9389-e372281058c5.jpg)
 > A mouse waiting for a surgery
 
 
 # Quoting code
 ```
-git add .
-git commit -m "the first commit"
-git push
+public void lectureEvaluator(int numOfMeme){
+    if(numOfMeme > 5){
+        System.out.print("Zzzzzz");
+    }
+    else{
+        System.out.print("Damn so hardcore this is the best lecture ever!!!!!");
+    }
+}
+just kidding, plz don't take this seriously :))
 ```
 
 
