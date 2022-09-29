@@ -21,10 +21,10 @@ to figure out the principles that define a good software engineer in this class.
 ```
 public void lectureEvaluator(int numOfMeme){
     if(numOfMeme > 5){
-        System.out.print("Zzzzzz");
+        System.out.println("Zzzzzz");
     }
     else{
-        System.out.print("Damn so hardcore this is the best lecture ever!!!!!");
+        System.out.println("Damn so hardcore this is the best lecture ever!!!!!");
     }
 }
 just kidding, plz don't take this seriously :))
