@@ -36,4 +36,4 @@ just kidding, plz don't take this seriously :))
 
 
 # Externl link
-This is a video of [beatbox competition with loop staton](https://www.youtube.com/watch?v=-h9U274wZs8).
+This is a video of [beatbox competition with loop station](https://www.youtube.com/watch?v=-h9U274wZs8).
