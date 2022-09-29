@@ -5,5 +5,5 @@ currently working in a neuroscience lab to gain some wet lab experiences. I'm al
 to figure out the principles that define a good software engineer in this class. Outside of academics, I love beatboxing, speedcubing
 (with best records of 16 secs!), FPS gaming, and table tennis.
 
-![this is a mouse](https://github.com/KevinZ0217/CSE-110/issues/1#issue-1391477070)
+![mice](https://user-images.githubusercontent.com/96039456/193138944-93d77a64-86ca-444a-9389-e372281058c5.jpg)
 > A mouse waiting for a surgery
