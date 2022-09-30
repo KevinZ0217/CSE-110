@@ -23,8 +23,7 @@ I would like to share some of my responsibilities as a RA in my neuroscience lab
 1. ![mice](https://user-images.githubusercontent.com/96039456/193138944-93d77a64-86ca-444a-9389-e372281058c5.jpg)
 > A mouse waiting for a surgery.
 
-2. (../blob/main/assets/images/rat.png?raw=true)
-> Another mouse with cranial window, waiting for a surgery.
+2. > Another [mouse with cranial window](../blob/main/assets/images/rat.png?raw=true), waiting for a surgery.
 
 
 # Code sharing
