@@ -19,6 +19,7 @@ to figure out the principles that define a good software engineer in this class.
 # Picture
 ![mice](https://user-images.githubusercontent.com/96039456/193138944-93d77a64-86ca-444a-9389-e372281058c5.jpg)
 > A mouse waiting for a surgery.
+
 (../blob/main/assets/images/rat.png?raw=true)
 > another mouse wih cranial window, waiting for a surgery.
 
