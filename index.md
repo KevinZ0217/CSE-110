@@ -24,7 +24,7 @@ I would like to share what I do as RA in my neuroscience lab.
 > A mouse waiting for a surgery.
 
 2. (../blob/main/assets/images/rat.png?raw=true)
-> another mouse wih cranial window, waiting for a surgery.
+> Another mouse with cranial window, waiting for a surgery.
 
 
 # Quoting code
