@@ -37,7 +37,7 @@ public void lectureEvaluator(int numOfMeme){
         System.out.println("Damn so hardcore this is the best lecture ever!!!!!");
     }
 }
-just kidding, plz don't take this seriously :))
+just kidding, plz don't kick me out of the class :))
 ```
 
 
