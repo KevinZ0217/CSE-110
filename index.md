@@ -46,8 +46,8 @@ This is a video of [beatbox competition with loop station](https://www.youtube.c
 
 # Task lists
 I enjoy watching movie and TV shows; here is a list of them. I haven't watch all of them yet. 
-- [x]Titanic
-- [x]Inception
-- [x]The Truman show
-- [x]The Big Bang Theory
-- [ ]Peaky Blinders
+- [x] Titanic
+- [x] Inception
+- [x] The Truman show
+- [x] The Big Bang Theory
+- [ ] Peaky Blinders
